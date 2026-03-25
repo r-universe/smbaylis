@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/smbaylis/smbaylis.r-universe.dev
 	branch = HEAD
+[submodule "fishSim"]
+	path = fishSim
+	url = https://github.com/SMBaylis/fishSim
